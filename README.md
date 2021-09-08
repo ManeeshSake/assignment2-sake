@@ -16,7 +16,8 @@ to travel to Goa from maryville
 3. From delhi to we have a direct flight to Goa 
 4. Taxi will be available out side the airport in Goa 
 
-Things to carry to Goa for maximum enjoyment
+# Things to carry to Goa for maximum enjoyment
+
 * money 
       * cards 
       * liquid cash 
