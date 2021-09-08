@@ -19,14 +19,14 @@ to travel to Goa from maryville
 # Things to carry to Goa for maximum enjoyment
 
 * money 
-      * cards 
-      * liquid cash 
+    * cards 
+    * liquid cash 
 * Bike 
-       * fuel tanks 
-       * Air pump
+    * fuel tanks 
+    * Air pump
 * Beach
-       * swimming Dress
-       * diving suite
+    * swimming Dress
+    * diving suite
 
 
 **[assignment2-sake](AboutMe.md)**
