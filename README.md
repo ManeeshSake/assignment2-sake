@@ -42,3 +42,12 @@ Bawarchi is the place where we can find biryani. it is an indian delicious food 
 | Fish Biryani | New Haven | $4.56 |
 | ice Cream   | New York | $4.00 |
 
+# Studies Quotes
+
+>“Let us study things that are no more. It is necessary to understand them, if only to avoid them.”
+― Victor Hugo, Les Misérables
+
+
+>“The authority of those who teach is often an obstacle to those who want to learn.”
+― Marcus Tullius Cicero
+
