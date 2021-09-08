@@ -29,3 +29,16 @@ Things to carry to Goa for maximum enjoyment
 
 
 **[assignment2-sake](AboutMe.md)**
+
+---
+Bawarchi is the place where we can find biryani. it is an indian delicious food . Here are the some of the items described below.
+
+# Bawarchi Menu
+| Food/Beverage | Locaiton | Estimated Price |
+| ------------- | -------- | --------------- |
+| veg Biryani   | Overland Park | $12.99 |
+| chicken Biryani | New Mexico | $9.83 |
+| mutton Biryani | Los Angeles | $2.19 |
+| Fish Biryani | New Haven | $4.56 |
+| ice Cream   | New York | $4.00 |
+
